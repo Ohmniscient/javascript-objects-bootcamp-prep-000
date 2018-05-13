@@ -1,5 +1,5 @@
 var playlist = {
-  'Lydia': 'Sleep Well',
+  Lydia: 'Sleep Well',
   The Smiths: 'This Night Has Opened My Eyes'
 }
 
