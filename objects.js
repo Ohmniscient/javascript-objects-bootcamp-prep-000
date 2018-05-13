@@ -1,6 +1,6 @@
 var playlist = {
-  Lydia: 'Sleep Well',
-  The Smiths: 'This Night Has Opened My Eyes'
+  'Lydia': 'Sleep Well',
+  'The Smiths': 'This Night Has Opened My Eyes'
 }
 
 function updatePlaylist(playlist, artist, song) {
